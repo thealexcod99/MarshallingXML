@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca>
+    <usuarios>
+        <alumno id="1">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <email></email>
+        </alumno>
+        <alumno id="2">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <email></email>
+        </alumno>
+        <alumno id="3">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <email></email>
+        </alumno>
+        <profesor id="4">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <email></email>
+            <dni></dni>
+            <telefono></telefono>
+        </profesor>
+        <profesor id="4">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <email></email>
+            <dni></dni>
+            <telefono></telefono>
+        </profesor>
+        <profesor id="4">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <email></email>
+            <dni></dni>
+            <telefono></telefono>
+        </profesor>
+        <administrador>
+            
+        </administrador>
+    </usuarios>
+    <libros>
+        <libro>
+
+        </libro>
+    </libros>
+    <prestamos>
+        <prestamo>
+
+        </prestamo>
+    </prestamos>
+    <resenias>
+        <resenia>
+
+        </resenia>
+    </resenias>
+</biblioteca>
